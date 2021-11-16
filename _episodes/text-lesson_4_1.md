@@ -1,5 +1,5 @@
 ---
-title: Applying to your own workflow
+title: Applying your own preprint workflow
 teaching: 30
 exercises: null
 duration: null
