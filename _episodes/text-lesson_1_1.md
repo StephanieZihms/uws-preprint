@@ -40,26 +40,25 @@ Day 2:
 
 A preprint is a version of a scientific manuscript posted on a public server prior to formal peer review. As soon as it’s posted, your preprint becomes a permanent part of the scientific record, citable with its own unique DOI. By sharing early, you can accelerate the speed at which science moves forward.
 
-## Benefits of preprinting
+## Benefits of preprints
 
-Benefits of Preprints
 We see preprints as an important step toward a more open and transparent peer review process — one with tremendous benefits for both individual authors and the broader scientific community.
 Rapid Dissemination of Your Results
 
 Preprints allow you to share your results when you’re ready — whether you’re researching an emergent disaster, applying for a grant, or just excited to broadcast your work to a wider audience.
-Establishing Priority
+
 
 It’s common for researchers to achieve a similar advance at around the same time but the publication process can artificially delay one paper or favor another. Posting preprints allows researchers to publicly date stamp their discoveries.
-Increased Attention (and Citations!)
+
 
 The sooner research becomes available, the sooner it can begin to receive views and citations. In this case, common sense is backed up by evidence. Research shows that public posting increases the number of times papers are viewed and cited.
-Career Advancement
+
 
 Preprints enable you to showcase your latest work for grant, hiring, or tenure committees. A link to a publicly posted preprint is more illustrative and compelling than a title on a CV with the annotation “in development” or “under review.”
-Community
+
 
 Preliminary feedback helps authors improve manuscripts. Collegial discussion can lead to new ideas, follow-up studies, or collaborations with other research groups. Plus, you can cite your preprint in your letters of inquiry.
-Unlimited and Timely Updates
+
 
 From the moment a preprint appears online to the day that the article is published in a peer reviewed journal, you can make as many updates as you want or need. Each version is numbered and incorporated into the preprint record.
 
