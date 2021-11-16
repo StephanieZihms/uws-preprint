@@ -1,5 +1,5 @@
 ---
-title: Policies and Permissions
+title: Preprint policies and permissions
 teaching: 20
 exercises: 20
 duration: null
