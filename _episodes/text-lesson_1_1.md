@@ -50,7 +50,7 @@ A preprint is a version of a scientific manuscript posted on a public server pri
 - Preliminary feedback helps authors improve manuscripts. Collegial discussion can lead to new ideas, follow-up studies, or collaborations with other research groups. Plus, you can cite your preprint in your letters of inquiry.
 - From the moment a preprint appears online to the day that the article is published in a peer reviewed journal, you can make as many updates as you want or need. Each version is numbered and incorporated into the preprint record.
 
-Reference: https://plos.org/open-science/preprints/
+Reference: [https://plos.org/open-science/preprints/](https://plos.org/open-science/preprints/)
 
 ## Preprint concerns
 
