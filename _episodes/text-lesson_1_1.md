@@ -63,7 +63,7 @@ From the moment a preprint appears online to the day that the article is publish
 
 Reference:https://plos.org/open-science/preprints/
 
-## Acknowledging concerns
+## Preprint concerns
 
 Importantly, you might have some concerns about sharing your research findings and ideas as a preprint. Common concerns (and how to address them) may include:
 
