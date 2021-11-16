@@ -1,5 +1,5 @@
 ---
-title: How to share?
+title: How to share your preprint
 teaching: 30
 exercises: 15
 duration: null
