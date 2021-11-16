@@ -25,13 +25,13 @@ dependencies: []
 originalRepository: emma-wilson/preprints-workshop-template
 
 ---
-Introduce your participants to the more technical details of preprinting: journal policies and permissions. The content should be specific to your participants’ research area, e.g. if your workshop is for researchers working in biological sciences, then the policies of journals in physics won’t be relevant to them.
+Preprint use and acceptance vary widely between disciplines. We will cover some key preprint servers, practices and help you to find out more information relevant to your research area and preferred journals. 
 
 ## Understanding journal policies/permissions
 
 Consider the following points:
 
-- Will posting a preprint affect publishing in other journals? (check Sherpa/Romeo)
+- Will posting a preprint affect publishing in other journals? [Click here to check Sherpa/Romeo website for journal policies](https://v2.sherpa.ac.uk/romeo/)
 - Examples of relevant journals in your field that do/don’t allow preprints (most do!)
 - Citing preprints - may be relevant as some journals don’t allow this
 
