@@ -54,9 +54,9 @@ Reference: https://plos.org/open-science/preprints/
 
 ## Preprint concerns
 
-Importantly, you might have some concerns about sharing your research findings and ideas as a preprint. Common concerns (and how to address them) may include:
+Importantly, you might have some concerns about sharing your research findings and ideas as a preprint. Common concerns include:
 
 - The dangers of having non-peer reviewed studies in public view (and how to mitigate that)
 - Having multiple versions of a paper out there (and how to link back to the final published version)
 
-It’s okay to be concerned about these topics, and this workshop will cover these topics and provide you with some solutions.
+It’s okay to be concerned about these topics, and this workshop will cover these and provide you with some solutions.
